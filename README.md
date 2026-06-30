@@ -32,7 +32,8 @@ A dedicated interface for recruiters to view, manage, and shortlist candidate ap
 ​Architecture: MVVM (Model-View-ViewModel)
 
 
-​Setup Instructions
+​Setup Instructions:
+
 ​Clone this repository.
 ​Add your google-services.json file to the app/ directory (ensure it is configured in your Firebase Console).
 ​Add your Cloudinary credentials (cloud_name and upload_preset) in your initialization class.
